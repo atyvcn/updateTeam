@@ -1,13 +1,19 @@
 [
   {
     "user": "胡滕宇",
-    "rewardRecordId": 323829344,
+    "rewardRecordId": 324320345,
+    "completed": false,
+    "rewardOk": false
+  },
+  {
+    "user": "jd_ZEgrKLmkqFEv",
+    "rewardRecordId": 324320393,
     "completed": false,
     "rewardOk": false
   },
   {
     "user": "jd_rfdfcuhKaWwa",
-    "rewardRecordId": 323829472,
+    "rewardRecordId": 324320440,
     "completed": false,
     "rewardOk": false
   }
