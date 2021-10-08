@@ -1,1 +1,26 @@
-[]
+[
+    {
+      "user": "胡滕宇",
+      "rewardRecordId": 325296092,
+      "completed": false,
+      "rewardOk": false
+    },
+    {
+      "user": "jd_ZEgrKLmkqFEv",
+      "rewardRecordId": 325297483,
+      "completed": false,
+      "rewardOk": false
+    },
+    {
+      "user": "jd_rfdfcuhKaWwa",
+      "rewardRecordId": 325298709,
+      "completed": false,
+      "rewardOk": false
+    },
+    {
+      "user": "atyvcn",
+      "rewardRecordId": 325301843,
+      "completed": false,
+      "rewardOk": false
+    }
+]
